@@ -2,7 +2,7 @@
 
 ---
 
-## **Introduction to AI for DevOps**
+## **1: Introduction to AI for DevOps**
 ### 📌 Topics
 - Why AI is a game-changer for DevOps
 - Overview of Generative AI and LLMs (without deep theory)
@@ -12,7 +12,7 @@
   
 ---
 
-## **Prompt Engineering **
+## **2: Prompt Engineering **
 ### 📌 Topics
 - **Fundamentals:** Tokens, temperature, max tokens, top-p, frequency & presence penalties
 - **Techniques:** Zero-shot, few-shot, n-shot, and Chain-of-Thought (CoT) prompting
@@ -26,7 +26,7 @@
 
 ---
 
-## **Running LLMs Locally & Making API Calls**
+## **3: Running LLMs Locally & Making API Calls**
 ### 📌 Topics
 - Running **LLMs locally** (Ollama, LM Studio, GPT4All)
 - Calling AI **via APIs (OpenAI, Mistral, Hugging Face, LM Studio API)**
@@ -37,7 +37,7 @@
 
 ---
 
-## **AI-Powered Shell Scripting & CLI Automation**
+## **4: AI-Powered Shell Scripting & CLI Automation**
 ### 📌 Topics
 - Using AI to improve Bash/Python scripting
 - AI-assisted log analysis and troubleshooting
@@ -47,7 +47,7 @@
 
 ---
 
-## **AI for Observability & Incident Response**
+## **5: AI for Observability & Incident Response**
 ### 📌 Topics
 - AI-powered monitoring with **Prometheus, Grafana, and New Relic**
 - AI for **log pattern recognition & anomaly detection**
@@ -57,7 +57,7 @@
 
 ---
 
-## **AIOps - AI for IT Operations**
+## **6: AIOps - AI for IT Operations**
 ### 📌 Topics
 - What is **AIOps** and how does it work?
 - AI-powered **incident detection and auto-remediation**
@@ -70,7 +70,7 @@
 
 ---
 
-## **AI for CI/CD Pipeline Optimization**
+## **7: AI for CI/CD Pipeline Optimization**
 ### 📌 Topics
 - AI-powered automation in **Jenkins, GitHub Actions, GitLab CI/CD**
 - AI-assisted **YAML validation and error fixing**
@@ -80,7 +80,7 @@
 
 ---
 
-## **AI Agents for DevOps (Hands-on)**
+## **8: AI Agents for DevOps (Hands-on)**
 ### 📌 Topics
 - **What are AI Agents?** How do they work?
 - AI-powered **self-healing infrastructure**
@@ -90,7 +90,7 @@
 
 ---
 
-## **AI for Security & FinOps (Cost Optimization)**
+## **9: AI for Security & FinOps (Cost Optimization)**
 ### 📌 Topics
 - AI-assisted **vulnerability scanning** (Trivy, Snyk, Checkov)
 - AI-powered **cloud cost optimization (FinOps)**
@@ -102,7 +102,7 @@
 
 ---
 
-## **Capstone Project & Future of AI in DevOps**
+## **10: Capstone Project & Future of AI in DevOps**
 ### 📌 Topics
 - AI trends in DevOps (AI-powered SRE, AIOps, FinOps)
 - **Final Capstone Project:** Implement an AI-assisted DevOps automation
